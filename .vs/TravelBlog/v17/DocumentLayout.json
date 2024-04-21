@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TravelBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\mapper\\blogmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\mapper\\blogmapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.data\\configurations\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|solutionrelative:src\\travelblog.data\\configurations\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\dtos\\blogdtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\dtos\\blogdtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\dtos\\blogdtos\\bloggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\dtos\\blogdtos\\bloggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\dtos\\blogdtos\\blogdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\dtos\\blogdtos\\blogdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\services\\interfaces\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|solutionrelative:src\\travelblog.data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|solutionrelative:src\\travelblog.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.core\\repositories\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|solutionrelative:src\\travelblog.core\\repositories\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70498310-8A9E-4B00-92D3-1D30D86A6FD0}|src\\TravelBlog.API\\TravelBlog.API.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70498310-8A9E-4B00-92D3-1D30D86A6FD0}|src\\TravelBlog.API\\TravelBlog.API.csproj|solutionrelative:src\\travelblog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.data\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|solutionrelative:src\\travelblog.data\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.business\\dtos\\blogdtos\\blogputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{879F747E-4BEA-48A8-B05F-8AD9A6ED1D7D}|src\\TravelBlog.Business\\TravelBlog.Business.csproj|solutionrelative:src\\travelblog.business\\dtos\\blogdtos\\blogputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|solutionrelative:src\\travelblog.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F2045B6-97B3-4784-BB9E-977B60CE1686}|src\\TravelBlog.Core\\TravelBlog.Core.csproj|solutionrelative:src\\travelblog.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.data\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|solutionrelative:src\\travelblog.data\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|c:\\users\\user\\source\\repos\\travelblog\\src\\travelblog.data\\contexts\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A051E42F-BD69-4311-90D7-1A96B6368586}|src\\TravelBlog.Data\\TravelBlog.Data.csproj|solutionrelative:src\\travelblog.data\\contexts\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPutDto.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPutDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPutDto.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPutDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wB0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:33:34.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\Mapper\\BlogMapProfile.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\Mapper\\BlogMapProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\Mapper\\BlogMapProfile.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\Mapper\\BlogMapProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:16:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogDeleteDto.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogDeleteDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogDeleteDto.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogDeleteDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:06:16.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPostDto.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPostDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPostDto.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogPostDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:03:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogGetDto.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogGetDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogGetDto.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\DTOs\\BlogDtos\\BlogGetDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:49:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\Services\\Implementations\\BlogService.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\Services\\Implementations\\BlogService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\Services\\Implementations\\BlogService.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\Services\\Implementations\\BlogService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAhwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:43:54.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Business\\Services\\Interfaces\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Business\\Services\\Interfaces\\IBlogService.cs",
+              "RelativeToolTip": "src\\TravelBlog.Business\\Services\\Interfaces\\IBlogService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:43:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Data\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\ServiceRegistiration.cs",
+              "RelativeToolTip": "src\\TravelBlog.Data\\ServiceRegistiration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:35:11.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Data\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "src\\TravelBlog.Data\\Repositories\\BlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:30:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Repositories\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Core\\Repositories\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Repositories\\IBlogRepository.cs",
+              "RelativeToolTip": "src\\TravelBlog.Core\\Repositories\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:29:44.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\TravelBlog.Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:01:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\TravelBlog.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:53:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Configurations\\BlogConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Data\\Configurations\\BlogConfiguration.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Configurations\\BlogConfiguration.cs",
+              "RelativeToolTip": "src\\TravelBlog.Data\\Configurations\\BlogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:07:37.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Core\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Entities\\Blog.cs",
+              "RelativeToolTip": "src\\TravelBlog.Core\\Entities\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:41:06.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "src\\TravelBlog.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:02:01.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.API\\Program.cs",
+              "RelativeToolTip": "src\\TravelBlog.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:49:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Contexts\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "src\\TravelBlog.Data\\Contexts\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TravelBlog\\src\\TravelBlog.Data\\Contexts\\BlogDbContext.cs",
+              "RelativeToolTip": "src\\TravelBlog.Data\\Contexts\\BlogDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:42:23.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\bin\Debug\net8.0\TravelBlog.Core.deps.json
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\bin\Debug\net8.0\TravelBlog.Core.runtimeconfig.json
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\bin\Debug\net8.0\TravelBlog.Core.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\bin\Debug\net8.0\TravelBlog.Core.pdb
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\refint\TravelBlog.Core.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.pdb
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\TravelBlog.Core.genruntimeconfig.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Core\obj\Debug\net8.0\ref\TravelBlog.Core.dll

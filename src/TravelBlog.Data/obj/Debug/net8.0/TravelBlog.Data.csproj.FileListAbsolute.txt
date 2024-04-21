@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\bin\Debug\net8.0\TravelBlog.Data.deps.json
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\bin\Debug\net8.0\TravelBlog.Data.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\bin\Debug\net8.0\TravelBlog.Data.pdb
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\bin\Debug\net8.0\TravelBlog.Core.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\bin\Debug\net8.0\TravelBlog.Core.pdb
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBl.D09E4E76.Up2Date
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\refint\TravelBlog.Data.dll
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\TravelBlog.Data.pdb
+C:\Users\user\source\repos\TravelBlog\src\TravelBlog.Data\obj\Debug\net8.0\ref\TravelBlog.Data.dll
